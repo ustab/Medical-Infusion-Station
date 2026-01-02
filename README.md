@@ -1,8 +1,6 @@
 # Medical-Infusion-Station
  A professional medical infusion monitoring system with multi-language support and pediatric safety protocols.
- # SmartIV-Pro: Intelligent Infusion Monitoring System 🏥
-
-SmartIV-Pro is a professional-grade medical software designed to monitor and manage IV infusion processes with a focus on pediatric safety and international usability.
+ #🏥 SmartIV-Pro is a professional-grade medical software designed to monitor and manage IV infusion processes with a focus on pediatric safety and international usability.
 
 ## 🚀 Key Features
 
